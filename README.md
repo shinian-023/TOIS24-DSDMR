@@ -4,7 +4,7 @@
 
 ## Authors
 
-Author Haitao Shi<sup>1</sup>, Author Meng Liu<sup>2</sup> \*, Author Xiaoxuan Mu<sup>1</sup>, Author Xuemeng Song<sup>1</sup>, Author Yupeng Hu<sup>1</sup>, Author Liqiang Nie<sup>3</sup> \*
+Haitao Shi<sup>1</sup>, Meng Liu<sup>2</sup> \*, Xiaoxuan Mu<sup>1</sup>, Xuemeng Song<sup>1</sup>, Yupeng Hu<sup>1</sup>, Liqiang Nie<sup>3</sup> \*
 
 <sup>1</sup> `<Shandong University, School of Software, Jinan, China>`  
 <sup>2</sup> `<Shandong Jianzhu University, School of Computer Science and Technology, Jinan, China>`  
