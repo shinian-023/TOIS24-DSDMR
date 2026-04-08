@@ -30,7 +30,7 @@ This repository provides the official implementation and evaluation scripts.
 
 ## Framework
 
-![Framework](./assets/framework.png
+![Framework](./assets/framework.png)
 
 **Figure 1.** Overall framework of `<DSDMR>`.
 
