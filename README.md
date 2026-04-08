@@ -1,10 +1,10 @@
-# `<Breaking Through the Noisy Correspondence: A Robust Model for Image-Text Matching>`
+# `Breaking Through the Noisy Correspondence: A Robust Model for Image-Text Matching`
 
-> `<A robust cross-modal retrieval framework that effectively handles noisy image-text correspondence through similarity distribution modeling and calibrated similarity learning, achieving state-of-the-art performance on three benchmarks under various noise rates.>`
+ `A robust cross-modal retrieval framework that effectively handles noisy image-text correspondence through similarity distribution modeling and calibrated similarity learning, achieving state-of-the-art performance on three benchmarks under various noise rates.`
 
 ## Authors
 
-**Author Haitao Shi<sup>1</sup>, **Author Meng Liu<sup>2</sup> \*, **Author Xiaoxuan Mu<sup>1</sup>, **Author Xuemeng Song<sup>1</sup>, **Author Yupeng Hu<sup>1</sup>, **Author Liqiang Nie<sup>3</sup> \*
+Author Haitao Shi<sup>1</sup>, Author Meng Liu<sup>2</sup> \*, Author Xiaoxuan Mu<sup>1</sup>, Author Xuemeng Song<sup>1</sup>, Author Yupeng Hu<sup>1</sup>, Author Liqiang Nie<sup>3</sup> \*
 
 <sup>1</sup> `<Shandong University, School of Software, Jinan, China>`  
 <sup>2</sup> `<Shandong Jianzhu University, School of Computer Science and Technology, Jinan, China>`  
