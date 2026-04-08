@@ -34,6 +34,7 @@ This repository provides the official implementation and evaluation scripts.
 
 **Figure 1.** Overall framework of `<DSDMR>`.
 
+## Usage
 ### Training
 
 ```bash
@@ -52,7 +53,7 @@ python scripts/infer.py
 python scripts/eval.py
 
 
-### Citation
+## Citation
 
 ```bibtex
 @article{DSDMR_TOIS2024,
@@ -71,11 +72,11 @@ python scripts/eval.py
   year         = {2024}
 }
 
-### Acknowledgement
+## Acknowledgement
 
 - Thanks to our supervisor and collaborators for valuable support.
 - Thanks to the open-source community for providing useful baselines and tools.
 
-### License
+## License
 
 This project is released under the Apache License 2.0.
